@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+body{
+    background-color: rgb(24, 24, 24);
+}
+.first-list ul li{
+    display: inline;
+}
+.first-list a{
+    text-decoration: none;
+    float: inline-start;
+    position: relative;
+    left: 170vh;
+    padding-left: 20px;
+    top: 10px;
+    color: white;
+}
+.app{
+    float: right;
+    padding: 20px;
+    position: relative;
+    right: 7vh;
+    bottom: 8px;
+    height: 3vh;
+}
+.Sbutton img{
+    float: right;
+    padding: 20px;
+    position: relative;
+    left: 10vh;
+    height: 10vh;
+    bottom: 30px;
+}
+h1{
+    text-align: center;
+    padding-top: 90px;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: white;
+}
+#Search{
+ margin-left: 330px;   
+ width: 55%;
+ height: 6.5vh;
+ border: 2px  solid grey;
+ border-radius: 25px;
+ background-color: black;
+ color:white;
+}
+
+.voiceSearchButton img{
+    position: relative;
+    height: 3vh;
+    width: 1.5%;
+    left: 1150px;
+    bottom: 38px;
+}
+.Searchbutton img{
+    position: relative;
+    height: 4vh;
+    width: 2%;
+    left: 365px;
+    bottom: 67px;
+}
+.two-buttons{
+    position: relative;
+    left: 80vh;
+    display: inline;
+    top:20px;
+}
+.work1{
+    position: relative;
+    height: 35px;
+    width: 180px;
+    background-color: black;
+    color: white;
+    border-top: 2px solid grey;
+    border-bottom: 2px solid grey;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-radius: 4px;
+}
+.language a{
+    text-decoration: none;
+    color: rgb(0, 140, 255);
+    padding-left: 8px;
+}
+.language{
+    display: inline;
+    color: white;
+}
+.language dd,dt{
+    position: relative;
+    display: inline-flex;
+    top: 90px;
+    left: 220px;
+    bottom: 100vh;
+}
+.first-footer{
+    color: white;
+}
+.footer-1{
+    width: 100%;
+    height: 10vh;
+    background-color: black;
+    position: fixed;
+    bottom: 66px;   
+}
+.footer-1 h3{
+    position: relative;
+    left: 39px;
+    top: 20px;
+}
+.second-footer{
+    width: 100%;
+    height: 10vh;
+    background-color: black;
+    border-bottom: 1px solid rgb(215, 212, 212);
+    border-top: 1px solid rgb(215, 212, 212);
+    position: fixed;
+    bottom: 0;
+}
+.footer-2 a{
+    text-decoration: none;
+    color: white;
+    padding-left: 9px;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+.footer-2 ul li{
+    display: inline;
+}
+.footer-3{
+    position: relative;
+    bottom: 105px;
+    left: 400px;
+}
+.footer-4 a{
+    text-decoration: none;
+    color: white;
+}
+.footer-4 ul li{
+    display: inline;
+    position: relative;
+    left: 85%;
+    bottom: 35px;
+}
+
